@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "age": 29,
+    "email": "alice@example.com",
+    "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "age": 30,
+    "email": "bob@example.com",
+    "avatar": "https://randomuser.me/api/portraits/men/75.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "age": 35,
+    "email": "charlie@example.com",
+    "avatar": "https://randomuser.me/api/portraits/men/85.jpg"
+  }
+]
